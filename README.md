@@ -29,37 +29,37 @@ Este projeto faz parte do curso de Ciência de Dados da TripleTen e tem o objeti
 ## Funcionalidades  
 
 ### Etapas Iniciais
-•	Importação de Bibliotecas;
-•	Leitura dos Dados;
-•	Informações Gerais.  
+* Importação de Bibliotecas;  
+* Leitura dos Dados;   
+* Informações Gerais.   
 
 ### Preparação dos Dados
-•	Conversão de Tipos de Dados;
-•	Tratamento de Dados Ausentes;
-•	Codificação de Variáveis Categóricas;
-•	Normalização e Padronização.  
-
+* Conversão de Tipos de Dados;  
+* Tratamento de Dados Ausentes;  
+* Codificação de Variáveis Categóricas;  
+* Normalização e Padronização.  
+ 
 ### Divisão dos Dados
-•	Divisão em Conjuntos: Divisão dos dados em conjuntos de treinamento, validação e teste na proporção 60:20:20.
-•	Características e Objetivo: Definição das colunas de características e do objetivo.  
+* **Divisão em Conjuntos:** Divisão dos dados em conjuntos de treinamento, validação e teste na proporção 60:20:20.
+* **Características e Objetivo:** Definição das colunas de características e do objetivo.  
 
 ### Estudo do Melhor Modelo  
 
-•	**Árvore de Decisão:** Avaliação de diferentes hiperparâmetros.
-•	**Floresta Aleatória:** Avaliação de diferentes hiperparâmetros.
-•	**Regressão Logística:** Avaliação do desempenho do modelo.  
+* **Árvore de Decisão:** Avaliação de diferentes hiperparâmetros.
+* **Floresta Aleatória:** Avaliação de diferentes hiperparâmetros.
+* **Regressão Logística:** Avaliação do desempenho do modelo.  
 
 ### Correção do Desequilíbrio de Classes
-•	**Técnicas:** Superamostragem, Ajuste de Limiar e Ajuste de Ponderação de Classes;
-•	**Avaliação dos Modelos:** Comparação dos resultados obtidos após a utilização das técnicas de correção.  
+* **Técnicas:** Superamostragem, Ajuste de Limiar e Ajuste de Ponderação de Classes;
+* **Avaliação dos Modelos:** Comparação dos resultados obtidos após a utilização das técnicas de correção.  
 
 ### Avaliação Final
-•	**Teste do Melhor Modelo:** Avaliação do modelo final no conjunto de teste.
-•	**Métricas de Avaliação:** Cálculo do F1-score e da métrica AUC-ROC, além da Curva ROC, Curva PR e Matriz de Confusão.
-•	**Comparação de Resultados:** Análise comparativa das métricas de desempenho.
+* **Teste do Melhor Modelo:** Avaliação do modelo final no conjunto de teste.
+* **Métricas de Avaliação:** Cálculo do F1-score e da métrica AUC-ROC, além da Curva ROC, Curva PR e Matriz de Confusão.
+* **Comparação de Resultados:** Análise comparativa das métricas de desempenho.
 
 ## Créditos
-•	**Autor:** Renan Rosental  
+* **Autor:** Renan Rosental  
 
 ## Contato
 Para dúvidas e feedback, entre em contato via e-mail: renan.engal@gmail.com
