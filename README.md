@@ -2,7 +2,7 @@
 
 ## Descrição  
 
-Este projeto faz parte do curso de Ciência de Dados da TripleTen e tem o objetivo de realizar a criação de um modelo de classificação para prever se um cliente do Beta Bank tende a deixar o banco em breve. Utilizando dados sobre o comportamento passado dos clientes e rescisões de contratos, o modelo deve alcançar um F1-score mínimo de 0,59. Além disso, a métrica AUC-ROC será medida e comparada com o F1-score.  
+Este projeto tem o objetivo de realizar a criação de um modelo de classificação para prever se um cliente do Beta Bank tende a deixar o banco em breve. Utilizando dados sobre o comportamento passado dos clientes e rescisões de contratos, o modelo deve alcançar um F1-score mínimo de 0,59. Além disso, a métrica AUC-ROC será medida e comparada com o F1-score.  
 
 ## Instalação  
 
